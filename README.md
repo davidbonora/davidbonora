@@ -1,4 +1,7 @@
-### Hi there 👋
+# David Miró Bonora
+
+## Current projects:
+[Rincón de la Biznaga](https://www.rinconbiznaga.com)
 
 <!--
 **davidbonora/davidbonora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

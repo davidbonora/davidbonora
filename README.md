@@ -1,5 +1,7 @@
 # David Miró Bonora
 
+[![dmiro-bo's 42 stats](https://badge.mediaplus.ma/kettlebells/dmiro-bo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 Hello, I'm David Miró Bonora, form Málaga, Spain.
 
 I'm a Full Stack Web Developer, learnt how to work with the MERN stack, right now using it on my projects, mainly combined with Astro.
@@ -11,18 +13,3 @@ I'm always open to help, chat or work. You can contact me:
 
 ## Current projects:
 [Rincón de la Biznaga](https://www.rinconbiznaga.com)
-
-<!--
-**davidbonora/davidbonora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

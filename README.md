@@ -4,8 +4,8 @@
 
 Hello, I'm David Miró Bonora, form Málaga, Spain.
 
-I'm a Full Stack Web Developer, learnt how to work with the MERN stack, right now using it on my projects, mainly combined with Astro.
-Also, just started at 42 School Málaga, learning mostly C/C++.
+I'm a Full Stack Web Developer, learnt how to work with the MERN stack. Right now using it on small, personal projects, with Astro.
+Also student at 42 School Málaga, learning mostly C/C++.
 
 I'm always open to help, chat or work. You can contact me:
  - Via Mail (davidbonora23@gmail.com)
